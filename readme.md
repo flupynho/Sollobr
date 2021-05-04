@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Projeto criado com para conhecimento e aprendizegem.
+  Projeto criado para conhecimento e aprendizegem.
 </h4>
 
 
